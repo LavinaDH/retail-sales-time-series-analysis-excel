@@ -24,8 +24,8 @@ Analyze retail sales data over time and build a forecast model to predict future
 
 ## Files Included
 
-## Dashboard Preview
-![Dashboard](Dashboard.png)
 - Excel analysis file
 - Dataset
 - Dashboard screenshots
+## Dashboard Preview
+![Dashboard](Dashboard.png)
