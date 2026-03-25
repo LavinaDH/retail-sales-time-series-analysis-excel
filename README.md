@@ -36,7 +36,7 @@ Analyze retail sales data over time and build a forecast model to predict future
 
 ## 📸 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
